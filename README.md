@@ -1,4 +1,10 @@
-# Continuous Deployment using AWS Code Pipeline and S3
+# Documentation of Guest-Game Project
+
+![Screenshot 2025-02-14 193223](https://github.com/user-attachments/assets/28fcbf79-6900-4a46-a1ab-a9cffb1303b2)
+
+# 📌 Introduction
+
+Memory Match is a simple yet engaging card-matching game where players test their memory skills by flipping over two cards at a time. Each card contains a hidden image, and the goal is to find matching pairs. If the selected cards match, they are removed from the board; if not, they remain until a correct match is found. The game continues until all pairs have been successfully matched. Perfect for players of all ages, Memory Match enhances concentration and recall while providing fun and entertainment!
 
 This repo contains the code files used in this [YouTube video](https://youtu.be/biYVW1TMYAU).
 
