@@ -22,7 +22,8 @@ The next step is to create an s3 bucket. Choose any name of the bucket, but must
 While creating the bucket make sure to uncheck Block all public access. This will allow all user to access to your bucket where the game resides.
 
 
-![Screenshot 2025-02-11 201813](https://github.com/user-attachments/assets/a61b4b03-2758-4816-acbf-be99fd231daa)
+![Screenshot 2025-02-11 200543](https://github.com/user-attachments/assets/7d710aa7-fb61-4fa0-8152-d897fd35c524)
+
 
 Then, scroll down and click Create Bucket.
 
