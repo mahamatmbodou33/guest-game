@@ -31,8 +31,7 @@ Memory Match is a simple yet engaging card-matching game where players test thei
 
 ![Screenshot 2025-02-11 200838](https://github.com/user-attachments/assets/a15fd498-b712-495f-9300-a65694568f34)
 
-## click Properties to make some change
-
+## Click Properties to make some change
 ![Screenshot 2025-02-11 201009](https://github.com/user-attachments/assets/a83e1601-3398-4399-a037-f071c247ed1d)
 
 ## Scroll down to the bottom Where it says Static website hosting and click on edit.
