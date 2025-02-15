@@ -37,7 +37,7 @@ Memory Match is a simple yet engaging card-matching game where players test thei
 
 ![Screenshot 2025-02-11 201116](https://github.com/user-attachments/assets/e5576cf2-ca7c-471e-98a2-c59fe6f00556)
 
-## nable static website hosting. This will allow us to host our single-page static website.
+## enable static website hosting. This will allow us to host our single-page static website.
 
 ![Screenshot 2025-02-11 201212](https://github.com/user-attachments/assets/2738c113-2af7-4ecd-9671-47f9bdd98212)
 
@@ -93,7 +93,7 @@ Memory Match is a simple yet engaging card-matching game where players test thei
 ![Screenshot 2025-02-11 205647](https://github.com/user-attachments/assets/5cff04f6-80ba-42f2-9d64-5ee594dba37b)
 
 
-## Select the second option Build custom pipeline
+## Select the second option Build a custom pipeline
 
 ![Screenshot 2025-02-11 205827](https://github.com/user-attachments/assets/6c067ee2-8dc5-4903-96bd-c9e87b8e5d69)
 
