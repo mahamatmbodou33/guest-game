@@ -55,5 +55,54 @@ Click on edit.
 
 ![Screenshot 2025-02-11 201813](https://github.com/user-attachments/assets/d56c2053-4463-4532-9239-31d22148efb4)
 
+Use this code for your bucket policy.  This allows everyone to read/view everything in the bucket.  Be sure to update the Bucket-Name.
+
+{
+    "Version": "2012-10-17",
+    "Statement": [
+    	{
+        	"Sid": "PublicReadGetObject",
+        	"Effect": "Allow",
+        	"Principal": "*",
+        	"Action": [
+            	"s3:GetObject"
+        	],
+        	"Resource": [
+                "arn:aws:s3:::Bucket-Name/*"
+        	]
+    	}
+    ]
+}
+
+
+![Screenshot 2025-02-11 202031](https://github.com/user-attachments/assets/6b1f1975-93d8-4458-8540-637d35a402b9)
+
+click on Save change
+
+
+![Screenshot 2025-02-11 202700](https://github.com/user-attachments/assets/239509d1-e25a-4224-b8b2-08eba8b48ed1)
+
+Click on edit public access
+
+![Screenshot 2025-02-11 205335](https://github.com/user-attachments/assets/ba9cc69d-d8c1-4078-8abc-16815b472173)
+
+Make sure all those settings are unchecked.
+
+![Screenshot 2025-02-11 205424](https://github.com/user-attachments/assets/1f27c964-8c3d-4bda-ab6a-fbb19d3c1e6b)
+
+Now it's time to create a cope-pipeline to automate the deployment process. Open a new window, search for AWS CodePipeline, and click on Create Pipeline.
+
+![Screenshot 2025-02-11 205647](https://github.com/user-attachments/assets/5cff04f6-80ba-42f2-9d64-5ee594dba37b)
+
+
+Select the second option Build custom pipeline
+
+![Screenshot 2025-02-11 205827](https://github.com/user-attachments/assets/6c067ee2-8dc5-4903-96bd-c9e87b8e5d69)
+
+
+
+
+
+
 
 All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  However, charges will incur at some point so it's recommended that you shut down resources after completing this tutorial.
