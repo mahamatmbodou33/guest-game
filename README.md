@@ -135,4 +135,3 @@ Memory Match is a simple yet engaging card-matching game where players test thei
 ## Game is successfully working. 
 
 
-All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  However, charges will incur at some point so it's recommended that you shut down resources after completing this tutorial.
