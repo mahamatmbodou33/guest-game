@@ -111,7 +111,8 @@ Memory Match is a simple yet engaging card-matching game where players test thei
 ## You can just select the repository where your project resides and save it.
 ![Screenshot 2025-02-11 211642](https://github.com/user-attachments/assets/99886876-8299-437a-b7f4-2dd53552e009)
 ## If you select the correct GitHub of the project, it will pop up, and choose main as a default branch.
-![Screenshot 2025-02-11 211642](https://github.com/user-attachments/assets/991da3b3-24c4-4dd2-8089-215cf5559e98)
+![Screenshot 2025-02-11 211945](https://github.com/user-attachments/assets/acea05fb-44fe-4ed3-b9a8-0e5b965fb1e1)
+
 ## These sections are optional, skip them.
 ![Screenshot 2025-02-11 212046](https://github.com/user-attachments/assets/5ba1bc23-26ff-41a2-90e5-924749094389)
 
