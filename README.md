@@ -96,11 +96,42 @@ Memory Match is a simple yet engaging card-matching game where players test thei
 ## Select the second option Build a custom pipeline
 
 ![Screenshot 2025-02-11 205827](https://github.com/user-attachments/assets/6c067ee2-8dc5-4903-96bd-c9e87b8e5d69)
+##Enter the pipeline name and leave everything with the default option and click next.
 
+![Screenshot 2025-02-11 205827](https://github.com/user-attachments/assets/87a70a13-efd8-46b4-a580-9629690cf716)
+##Select GithHub as a source provider and connect to GitHub.
+![Screenshot 2025-02-11 210402](https://github.com/user-attachments/assets/43dfad70-9563-4f7f-a8f6-dfbbf5e7a949)
+## After writing the connection name, click on install a new app and it will take you to your GitHub repository to install the app and continue with the connection and make sure to authorize the connector to connect to your GitHub
+![Screenshot 2025-02-11 210554](https://github.com/user-attachments/assets/846625fc-8dce-4e72-995c-9de1bad6280f)
 
+![Screenshot 2025-02-11 210923](https://github.com/user-attachments/assets/ef168390-250d-4b10-bf34-60dc5e564ea1)
 
+![Screenshot 2025-02-11 210757](https://github.com/user-attachments/assets/6e600c2d-a72f-4fa5-8b62-85f78d7bd815)
 
+## You can just select the repository where your project resides and save it.
+![Screenshot 2025-02-11 211642](https://github.com/user-attachments/assets/99886876-8299-437a-b7f4-2dd53552e009)
+## If you select the correct GitHub of the project, it will pop up, and choose main as a default branch.
+![Screenshot 2025-02-11 211642](https://github.com/user-attachments/assets/991da3b3-24c4-4dd2-8089-215cf5559e98)
+## These sections are optional, skip them.
+![Screenshot 2025-02-11 212046](https://github.com/user-attachments/assets/5ba1bc23-26ff-41a2-90e5-924749094389)
 
+![Screenshot 2025-02-11 212203](https://github.com/user-attachments/assets/79632fb8-8822-4c5a-8916-855c63dd4879)
+## Select Amazon s3 as the deploy provider and choose the bucket. 
+![Screenshot 2025-02-11 212441](https://github.com/user-attachments/assets/741cf534-c2f2-4fe4-8f23-6bd0f0ae4310)
+## Click Next
+![Screenshot 2025-02-11 212528](https://github.com/user-attachments/assets/c2a9d19d-8e73-40e6-b27b-76c1723ba255)
+## Click on Create a pipeline
+![Screenshot 2025-02-11 212631](https://github.com/user-attachments/assets/ab13b0ad-5fb3-491d-9ad8-8c775d684c6b)
+## Pipeline was successfully created
+![Screenshot 2025-02-11 212801](https://github.com/user-attachments/assets/5e22d2ca-8862-4a24-8195-a8932d8ba43b)
+
+## Go to your s3 bucket click on the properties and scroll down toward the end and you will find the URL
+![Screenshot 2025-02-11 213015](https://github.com/user-attachments/assets/baffe3a0-65ec-4808-a505-2f5b5a1debda)
+![Screenshot 2025-02-11 213108](https://github.com/user-attachments/assets/e047f614-779e-4ae7-ae3e-563b3efff843)
+## If you follow all the above steps correctly, you will be able to run the app successfully. 
+![Screenshot 2025-02-11 213320](https://github.com/user-attachments/assets/96303468-b187-4ced-ae31-c15e7624d7f9)
+![Screenshot 2025-02-11 213536](https://github.com/user-attachments/assets/fde72a8c-90d1-463f-b6ea-72a8b6d0d9f9)
+## Game is successfully working. 
 
 
 All services used are eligible for the [AWS Free Tier](https://aws.amazon.com/free/).  However, charges will incur at some point so it's recommended that you shut down resources after completing this tutorial.
