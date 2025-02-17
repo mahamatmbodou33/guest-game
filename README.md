@@ -97,7 +97,9 @@ Memory Match is a simple yet engaging card-matching game where players test thei
 
 ![Screenshot 2025-02-11 205827](https://github.com/user-attachments/assets/6c067ee2-8dc5-4903-96bd-c9e87b8e5d69)
 ## Enter the pipeline name and leave everything with the default option and click next.
-##Select GithHub as a source provider and connect to GitHub.
+![Screenshot 2025-02-11 210057](https://github.com/user-attachments/assets/0fa4137f-df04-44cf-b6fd-8229a3ad6be7)
+
+## Select GithHub as a source provider and connect to GitHub.
 ![Screenshot 2025-02-11 210402](https://github.com/user-attachments/assets/43dfad70-9563-4f7f-a8f6-dfbbf5e7a949)
 ## After writing the connection name, click on install a new app and it will take you to your GitHub repository to install the app and continue with the connection and make sure to authorize the connector to connect to your GitHub
 ![Screenshot 2025-02-11 210554](https://github.com/user-attachments/assets/846625fc-8dce-4e72-995c-9de1bad6280f)
